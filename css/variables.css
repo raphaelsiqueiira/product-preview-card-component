@@ -1,0 +1,32 @@
+:root {
+  /* Font Family*/
+  --ff-primaria: "Montserrat", sans-serif;
+  --ff-destaque: "Fraunces", serif;
+
+  --letter-spacing: 0.4rem;
+
+  /* Font Weight */
+  --fw-regular: 500;
+  --fw-bold: 700;
+
+  /* Font Size */
+  --fs-sm: 0.8rem;
+  --fs-md: 0.875rem;
+  --fs-lg: 2rem;
+
+  /* Spacing (gaps, paddins) */
+  --spacing-md: 1rem;
+  --spacing-lg: 1.5rem;
+  --spacing-lx: 2rem;
+
+  /* Radius*/
+  --radius-md: 0.5rem;
+  --radius-lg: 1rem;
+
+  --primary-clr-500: hsl(158, 36%, 37%);
+  --primary-color-700: hsl(158, 42%, 18%);
+  --clr-100: hsl(212, 21%, 14%);
+  --clr-200: hsl(228, 12%, 48%);
+  --clr-600: hsl(30, 38%, 92%);
+  --clr-900: hsl(0, 0%, 100%);
+}
